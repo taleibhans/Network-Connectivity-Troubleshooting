@@ -205,31 +205,3 @@ Being able to reach an IP address does not necessarily mean DNS is working, and 
 
 ````
 
-```markdown
-## Screenshots
-
-### Initial Network Configuration
-![Initial configuration](screenshots/01-initial-ipconfig.png)
-
-### Failed Gateway Test
-![Failed gateway ping](screenshots/02-gateway-failure.png)
-
-### External Connectivity Restored
-![Successful external ping](screenshots/03-external-connectivity.png)
-
-### DNS Failure
-![DNS timeout](screenshots/04-dns-failure.png)
-
-### DNS Resolution Restored
-![Successful nslookup](screenshots/05-dns-restored.png)
-
-### Route Verification
-![Traceroute](screenshots/06-tracert.png)
-
-### Active Network Connections
-![Netstat](screenshots/07-netstat.png)
-
-### Process Identification
-![PID process lookup](screenshots/08-process-identification.png)
-````
-
